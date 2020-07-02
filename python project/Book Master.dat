@@ -1,0 +1,1054 @@
+(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'S.dinesh & Co.'
+p3
+sS'B_author'
+p4
+S'R.Jerath'
+p5
+sS'B_id'
+p6
+I111
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Self Master of Physics-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Shiv Das & Sons'
+p3
+sS'B_author'
+p4
+S'Shiv Das'
+p5
+sS'B_id'
+p6
+I122
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Shiv Das Maths-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Pradeep Publication'
+p3
+sS'B_author'
+p4
+S'K.L Glomber, K.L Gogia'
+p5
+sS'B_id'
+p6
+I133
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Pradeeps Fundamental Physics-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Rachna Sagar'
+p5
+sS'B_id'
+p6
+I144
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Together Scanner Mathematics-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Reeta Sahoo'
+p5
+sS'B_id'
+p6
+I155
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Together with Computer Science(Python)-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Bharati Bhavan'
+p3
+sS'B_author'
+p4
+S'R.S Aggarwal'
+p5
+sS'B_id'
+p6
+I166
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Mathematics-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Rachna Sagar'
+p5
+sS'B_id'
+p6
+I177
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Together with Mathematics-XII'
+p10
+sS'B_location'
+p11
+S'XII-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Reeta Sahoo'
+p5
+sS'B_id'
+p6
+I188
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Together with Computer Science(Python)-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'S.dinesh & Co.'
+p3
+sS'B_author'
+p4
+S'R.Jerath'
+p5
+sS'B_id'
+p6
+I199
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Self Master of Physics-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Pradeep Publication'
+p3
+sS'B_author'
+p4
+S'K.L Glomber, K.L Gogia'
+p5
+sS'B_id'
+p6
+I210
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Pradeeps Fundamental Physics-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Bharati Bhavan'
+p3
+sS'B_author'
+p4
+S'R.S Aggarwal'
+p5
+sS'B_id'
+p6
+I221
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Mathematics-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Rachna Sagar'
+p5
+sS'B_id'
+p6
+I232
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Together with Mathematics-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Rachna Sagar'
+p5
+sS'B_id'
+p6
+I243
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Together Scanner Mathematics-XI'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rachna Sagar Pvt. ltd.'
+p3
+sS'B_author'
+p4
+S'Rachna Sagar'
+p5
+sS'B_id'
+p6
+I254
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'U-like Chemistry'
+p10
+sS'B_location'
+p11
+S'XI-Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Kingfisher publication'
+p3
+sS'B_author'
+p4
+S'Martin Redfern'
+p5
+sS'B_id'
+p6
+I265
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'The Kingfisher Book of Planet Earth'
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Miles Kelly Publishing Ltd'
+p3
+sS'B_author'
+p4
+S'Brisn William'
+p5
+sS'B_id'
+p6
+I276
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'The Greatest Book of the Biggest & Best'
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Parragon Books Ltd'
+p3
+sS'B_author'
+p4
+S'John Guest'
+p5
+sS'B_id'
+p6
+I287
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Amazing Time Facts'
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'B.Jain Publishers Ltd'
+p3
+sS'B_author'
+p4
+S'Rakesh Kumar'
+p5
+sS'B_id'
+p6
+I298
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'365 Wonders of the World'
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Rohan Book Company'
+p3
+sS'B_author'
+p4
+S'Sidhant Basu'
+p5
+sS'B_id'
+p6
+I309
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S"Children's Encyclopedia Space"
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Kingfisher publication'
+p3
+sS'B_author'
+p4
+S'Richard Walker'
+p5
+sS'B_id'
+p6
+I320
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Human Body'
+p10
+sS'B_location'
+p11
+S'Encyclopedia'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Maanu Graphics'
+p3
+sS'B_author'
+p4
+S'G.K Gupta'
+p5
+sS'B_id'
+p6
+I331
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Essay,Letter & Personalities'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Spider Books'
+p3
+sS'B_author'
+p4
+S'M.K parthasarathy'
+p5
+sS'B_id'
+p6
+I342
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Essay for high School Student'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Upkar'
+p3
+sS'B_author'
+p4
+S'Brij Kishore Goyal'
+p5
+sS'B_id'
+p6
+I353
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Modern Essay'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Spider Books'
+p3
+sS'B_author'
+p4
+S'Sohal Mathur'
+p5
+sS'B_id'
+p6
+I364
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'School essays & letters'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Learners Publication'
+p3
+sS'B_author'
+p4
+S'George Davidson'
+p5
+sS'B_id'
+p6
+I375
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Vocabulary & Grammar'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Learners Publication'
+p3
+sS'B_author'
+p4
+S'Howard Sargeant'
+p5
+sS'B_id'
+p6
+I386
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Junior English Companian'
+p10
+sS'B_location'
+p11
+S'Eng Grammar'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I408
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Vallabhabhai Patel'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I419
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Veer Savarkar'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I430
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Dr. Rajendra Prasad'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I441
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Maharana Pratap'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I452
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Nana Saheb Peshwa'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I463
+sS'B_status'
+p7
+S'Yes'
+p8
+sS'B_name'
+p9
+S'Luminous life of Mahatma Gandhi'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Tiny Tot Publication'
+p3
+sS'B_author'
+p4
+S'Shyam Dua'
+p5
+sS'B_id'
+p6
+I474
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Luminous life of Sarojini Naidu'
+p10
+sS'B_location'
+p11
+S'Biography'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I485
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Fairy Tales'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I496
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Monuments of India'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I507
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Best Goodnight Stories'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I518
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Akbar and Birbal'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I529
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Grandpa Stories'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.(iBook_Func
+Book
+p0
+(dp1
+S'B_publ'
+p2
+S'Manoj Publication'
+p3
+sS'B_author'
+p4
+S'Kunwar Anil Kumar'
+p5
+sS'B_id'
+p6
+I540
+sS'B_status'
+p7
+S'No'
+p8
+sS'B_name'
+p9
+S'Moral Stories'
+p10
+sS'B_location'
+p11
+S'Junior Books'
+p12
+sb.
